@@ -7007,7 +7007,7 @@ a.text-dark:hover, a.text-dark:focus {
   }
 
   .container3 {
-    padding-bottom: 100px;
+    padding-bottom: 0px;
     padding-top: 80px;
   }
 
@@ -7017,10 +7017,19 @@ a.text-dark:hover, a.text-dark:focus {
 
   .carousel-item {
     padding-bottom: 20px;
-    padding-top: 50px;
+    padding-top: 0px;
+    height: 600px;
+  }
+ 
+.container {
+  padding-top: 20px;
+}
+  .col-1 {
+    padding-bottom: 0px;
+    padding-top: 80px;
   }
 
-  .footer1 {
-    padding-bottom: 100px;
+   .col-8 {
+    padding-bottom: 0px;
     padding-top: 80px;
   }
