@@ -1,10 +1,14 @@
 /* custom.scss */
 
 /* import google font */
-@import url('https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
 
-$headings-font-family: 'Hepta Slab', serif;
-$font-family-base: 'Grenze', serif;
+<style>
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
+</style>
+
+$headings-font-family: 'Roboto Condensed';
+$font-family-base: 'Roboto Condensed';
 
 $navbar-padding: 100px;
 
