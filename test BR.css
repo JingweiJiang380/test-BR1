@@ -1,6 +1,10 @@
 /* custom.scss */
 /* import google font */
+<style>
 @import url("https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pragati+Narrow&display=swap');
+</style>
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors
@@ -36,6 +40,8 @@
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Oswald", Roboto, "Oswald", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Oswald", "Oswald", monospace; }
+  /*font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;*/
 
 *,
 *::before,
@@ -7018,9 +7024,9 @@ a.text-dark:hover, a.text-dark:focus {
   .carousel-item {
     padding-bottom: 20px;
     padding-top: 0px;
-    height: 600px;
+    height: 400px;
   }
- 
+
 .container {
   padding-top: 20px;
 }
@@ -7033,3 +7039,66 @@ a.text-dark:hover, a.text-dark:focus {
     padding-bottom: 0px;
     padding-top: 80px;
   }
+
+  #p2 {
+    color: black;
+    padding-bottom: 100px;
+    font-family: 'Dancing Script', cursive;
+  }
+
+  #h22 {
+    color: black;
+    padding-bottom: 20px;
+    font-family: 'Pompiere', cursive;
+  }
+
+  #img1 {
+    opacity: 0.6;
+  }
+
+  #navbar1 {
+    font-family: 'Pragati Narrow', sans-serif;
+  }
+
+#media1 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#svgline {
+  object-position: center;
+  padding-top: 15px;
+}
+
+#jumbotron1 {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: white;
+  opacity: 1;
+  color: orange;
+  }
+
+#beforefooter {
+  padding-top: 50px;
+}
+
+#containers {
+  padding-top: 20px;
+}
+
+#title {
+ font-family: 'Staatliches', cursive;
+}
+
+#title2 {
+  font-family: 'Staatliches', cursive;
+}
+
+#title1 {
+  font-family: 'Staatliches', cursive;
+}
+
+#zhengwen {
+  font-family: 'Marvel', sans-serif;
+}
+
