@@ -7053,7 +7053,7 @@ a.text-dark:hover, a.text-dark:focus {
   }
 
   #img1 {
-    opacity: 0.6;
+    opacity: 0.3;
   }
 
   #navbar1 {
@@ -7100,6 +7100,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 #zhengwen {
   font-family: 'Marvel', sans-serif;
+  font-size: 15px;
 }
 
 #padding1 {
@@ -7107,8 +7108,9 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 #titleQ {
-  font-family: 'Marvel', sans-serif;
+  font-family: 'Staatliches', cursive;
   color: black;
   padding-bottom: 100px;
+  opacity: 0.8;
 }
 
